@@ -35,7 +35,7 @@ from math import pi
 
 Please make me to update tests as appropirate
 
--![#FF0000]'RED'
+-![#FFOOOO]'RED'
 
 ```diff
 -text in red
