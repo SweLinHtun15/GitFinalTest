@@ -28,6 +28,9 @@ numpy.singalized('phenomena')#returns 'phenomenon'
 ```
 Pull Request are Welcome.For Major Changes open an issue first to discuss what yoy would like to change
 ```
+
+```
+Make Sofeware.For Major Changes, Please open the new world.
 ```python
 from math import pi
 ```
