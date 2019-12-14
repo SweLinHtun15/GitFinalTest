@@ -15,9 +15,9 @@ pip install numpy
 
 ```python
 import numpy
-numpy.pluralized('image')#returns 'Image'
-numpy.pluralized('goose')#returns 'Geese'
-numpy.singalized('phenomena')#returns 'phenomenon'
+numpy.pluralized('image') # returns 'Image'
+numpy.pluralized('goose') # returns 'Geese'
+numpy.singalized('phenomena') # returns 'phenomenon'
 ```
 
 
