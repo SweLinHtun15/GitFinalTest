@@ -21,7 +21,7 @@ numpy.singalized('phenomena') # returns 'phenomenon'
 ```
 
 
-![alt.text](https://www.stellanandchewys.com/wp-content/uploads/maplechristmas.jpg)
+![alt_text](https://www.stellanandchewys.com/wp-content/uploads/maplechristmas.jpg)
 
 ##Contributing
 
@@ -34,6 +34,11 @@ Make Sofeware.For Major Changes, Please open the new world.
 ```python
 from math import pi
 ```
+
+```python
+from math import pi
+```
+
 -numpy
 -matplotlib
 -scipy
