@@ -22,6 +22,8 @@ numpy.singalized('phenomena') # returns 'phenomenon'
 
 
 ![alt_text](https://www.stellanandchewys.com/wp-content/uploads/maplechristmas.jpg)
+![alt text](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
+![alt_sloth](https://static01.nyt.com/images/2014/01/28/science/28SLOT_SPAN/28SLOT-jumbo.jpg)
 
 ##Contributing
 
