@@ -62,6 +62,8 @@ Second Line.
 
 print("""\
 Usage: thingy
+
+
 		-a
 		-b
 		-c
@@ -82,3 +84,5 @@ word[:5]
 word[8:]
 word[5:-3]
 word[:2] + word[3:]
+
+>>>list
