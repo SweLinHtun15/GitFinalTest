@@ -16,7 +16,7 @@ a | b 		    # letters in a or b or both
 a & b  			# letters in both a and b
 a ^ b  			# letters in a or b but not both
 
-a = {x for x on 'abracadabra' if x not in 'abc'}
+a = {x for x in 'abracadabra' if x not in 'abc'}
 a
 
 fruits = {"apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"}
@@ -62,8 +62,8 @@ knights = {'gallahad': 'the pure', 'robin': 'the brave'}
 for k, v in knights.items():
 		print(k,v)
 
-for i, v in enumerate(['tic','toc','toe'])
-print(i,v)
+for i, v in enumerate(['tic','toc','toe']):
+		print(i,v)
 
 questions = ['name', 'quest', 'favourite color']
 answers = ['lancelot', 'the holy graill', 'blue']
