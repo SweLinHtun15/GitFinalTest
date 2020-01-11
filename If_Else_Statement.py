@@ -66,7 +66,7 @@ if x > y and z > x:
 else:
 	print("All Conditions are False")
 
-#or is loogical operater
+#or is logical operater
 
 x = 50
 y = 40
