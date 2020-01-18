@@ -1,6 +1,6 @@
 #Tuple
 
-Tuple - ()
+Tuple = ()
 t = 12345,54321, 'hello'
 t[0]
 
@@ -19,3 +19,14 @@ v
 
 fruits = ('apple', 'banana', 'cheery', 'orange', 'kiwi', 'melon', 'mango')
 print(fruits[2:5])
+
+# change Tuples Values
+x = ("apple", "banana", "cherry", "orange")
+y = list(x)
+y[1] = "mango"
+x = tuple(y)
+x
+
+fruits = ('apple', 'banana', 'cheery', 'orange', 'kiwi', 'melon', 'mango')
+x[4] = "pineapple"
+fruits
