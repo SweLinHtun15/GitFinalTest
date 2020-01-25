@@ -89,6 +89,33 @@ print(maximum(3,8))
 
 print(maximum(20,10))
 
-#HW return
+def paper():
+	'''1. There will be situations where your program has to interact with the user. For example, you would want to take input from the user and then print some results back. We can achieve this using the input function and pprint function respeactively.'''
+	'''2. There will be situations where your program has to interact with the user. For example, you would want to take inout from the user and then print some results back. we can achieve this using the input function and print function respectively.'''
+
+print(paper._doc_)
+
+
+#DocString(Documantation Strings)
+
+def print_max(x,y):
+	'''Prints the maximum of two numbers
+	The two values must be integers.
+	'''
+
+	x = int(x)
+	y = int(y)
+
+	if x > y:
+		print(x, 'is maximum')
+	elif x < y:
+		print(y, 'is maximum')
+	else:
+		print(x,'&',y,'is equal')
+
+print_max(5,9)
+
+print(print_max.__doc__)
+
 
 

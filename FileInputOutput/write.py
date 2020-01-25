@@ -6,6 +6,6 @@
 
 
 with open('cat.jpg', 'rb') as rf:
-	with open('cat_copy.png', 'wb) as wf:
+	with open('cat_copy.png', 'wb) as wf:                                                               
 		for line in rf:
 			wf.write(line)
